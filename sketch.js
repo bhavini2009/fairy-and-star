@@ -70,4 +70,5 @@ function keyPressed() {
 	if(keyCode===Right_ARROW){
 		fairy.velocityY=-3
 
-}	
+}
+}
