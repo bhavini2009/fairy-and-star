@@ -30,7 +30,7 @@ function setup() {
 
 	fairy=createSprite(70,600,40,40);
 	fairy.addImage(fairyImg)
-	fairy.scale=0.2
+	fairy.scale=0.2;
 
 
 	engine = Engine.create();
