@@ -65,10 +65,10 @@ function keyPressed() {
 	}
   
 	if(keyCode===LEFT_ARROW){
-		fairy.velocityY=3
+		fairy.x = fairy.x= -5
 	}
 	if(keyCode===Right_ARROW){
-		fairy.velocityY=-3
+		fairy.x = fairy.x =5
 
 }
 }
