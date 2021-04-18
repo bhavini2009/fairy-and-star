@@ -65,10 +65,10 @@ function keyPressed() {
 	}
   
 	if(keyCode===LEFT_ARROW){
-		fairy.x = fairy.x= -5
+		fairy.x = fairy.x=-5
 	}
 	if(keyCode===Right_ARROW){
-		fairy.x = fairy.x =5
+		fairy.x = fairy.x=5
 
 }
 }
