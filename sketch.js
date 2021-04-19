@@ -67,7 +67,7 @@ function keyPressed() {
 	if(keyCode===LEFT_ARROW){
 		fairy.x = fairy.x=-5
 	}
-	if(keyCode===Right_ARROW){
+	if(keyCode===RIGHT_ARROW){
 		fairy.x = fairy.x=5
 
 }
